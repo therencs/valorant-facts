@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/valorant-facts/static/css/main.66f979b8.css",
-    "main.js": "/valorant-facts/static/js/main.f105c4ab.js",
+    "main.js": "/valorant-facts/static/js/main.fcc75914.js",
     "index.html": "/valorant-facts/index.html",
     "main.66f979b8.css.map": "/valorant-facts/static/css/main.66f979b8.css.map",
-    "main.f105c4ab.js.map": "/valorant-facts/static/js/main.f105c4ab.js.map"
+    "main.fcc75914.js.map": "/valorant-facts/static/js/main.fcc75914.js.map"
   },
   "entrypoints": [
     "static/css/main.66f979b8.css",
-    "static/js/main.f105c4ab.js"
+    "static/js/main.fcc75914.js"
   ]
 }
